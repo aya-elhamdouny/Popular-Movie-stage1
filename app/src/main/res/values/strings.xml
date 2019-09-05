@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Popular Movies stage-1</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="Movie_name">LOGAN</string>
+    <string name="detail_rate">10.0</string>
+    <string name="release_date">2017</string>
+    <string name="Overview"></string>
+    <string name="label_rate">Rate: </string>
+    <string name="label_release_date">Release Date: </string>
+    <string name="label_overview">Overview: </string>
+</resources>
